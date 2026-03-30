@@ -45,7 +45,7 @@ I have hands-on experience in working with real-world datasets, performing data 
 ## 🎥 Portfolio Video
 
 🔗 Watch my complete portfolio walkthrough:  
-(Paste Final Video Link)
+https://www.linkedin.com/posts/soniya-shaik-8191b9329_dataanalytics-portfolio-python-ugcPost-7444280530830950400-0i5C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLKGFUBb5oJWp6xIyEd-vCN-_VILW8k1UQ
 
 ---
 
