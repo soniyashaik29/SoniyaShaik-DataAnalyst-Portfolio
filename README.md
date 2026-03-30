@@ -81,8 +81,9 @@ I have hands-on experience in working with real-world datasets, performing data 
 
 ## 🌐 Connect With Me
 
-- LinkedIn: (Your Profile Link)  
-- GitHub: (Your Profile Link)  
+- LinkedIn: https://www.linkedin.com/in/soniya-shaik-8191b9329/  
+- GitHub: https://github.com/soniyashaik29
+- Gmail: soniyashaik78609@gmail.com
 
 ---
 
