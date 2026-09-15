@@ -51,7 +51,7 @@ https://www.linkedin.com/posts/soniya-shaik-8191b9329_dataanalytics-portfolio-py
 
 ## 🔗 Project Videos
 
-- 📌 Task 1 Video: https://www.linkedin.com/posts/soniya-shaik-8191b9329_rift2026-hackathon-ai-activity-7430414733251620865-wqkd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLKGFUBb5oJWp6xIyEd-vCN-_VILW8k1UQ
+- 📌 Task 1 Video: https://lnkd.in/p/dc7wQpTp
 - 📌 Task 2 Video: https://www.linkedin.com/posts/soniya-shaik-8191b9329_apexplanet-dataanalytics-eda-activity-7433449495302033408-_Sac?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLKGFUBb5oJWp6xIyEd-vCN-_VILW8k1UQ 
 - 📌 Task 3 Video: https://www.linkedin.com/posts/soniya-shaik-8191b9329_dataanalytics-powerbi-dashboard-activity-7435748713890938880-OiAC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLKGFUBb5oJWp6xIyEd-vCN-_VILW8k1UQ 
 - 📌 Task 4 Video: https://www.linkedin.com/posts/soniya-shaik-8191b9329_apexplanet-dataanalytics-datascience-activity-7442978346621100032-IUHP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLKGFUBb5oJWp6xIyEd-vCN-_VILW8k1UQ 
